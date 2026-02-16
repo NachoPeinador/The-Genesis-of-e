@@ -154,15 +154,19 @@ La TSM sugiere una imagen del mundo donde:
 
 ## 🛠️ Reproducibilidad: Auditor TSM 2.0
 
-Todos los resultados pueden verificarse independientemente usando el entorno preconfigurado a continuación:
+Todo el análisis computacional es transparente y reproducible. Ejecuta los cálculos directamente en la nube:
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/The-Genesis-of-e.ipynb)
+| Dominio | Notebook | Cálculos Clave / Validaciones |
+| :--- | :---: | :--- |
+| **🌌 Cosmología** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Modular-Substrate-Theory/blob/main/Notebooks/TSM_Cosmologia.ipynb) | • Resolución Tensión $H_0$ (73.52 km/s/Mpc)<br>• Cálculo de $S_8$ y Burbuja Local |
+| **⚛️ Hadrones** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Modular-Substrate-Theory/blob/main/Notebooks/TSM_Hadronica.ipynb) | • Masa del Hexaquark $d^{**}$ (3619 MeV)<br>• Factor de compresión $\Gamma \approx 0.726$ |
+| **🧮 Matemáticas** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Modular-Substrate-Theory/blob/main/Notebooks/Harmonic_primes.ipynb) | • Resonancia espectral en gaps de primos<br>• Validación de armónicos $m \cdot R_{\text{fund}}$ |
+| **💎 Alpha & e** | [ [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]](https://colab.research.google.com/github/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/La-Genesis-de-e.ipynb) | • 110-digit audit of the identity of $e$, the $\alpha^{-1}$ master equation<br> |
 
 ### Pasos de Verificación
 
 1. **Abrir** el Notebook de Colab.
 2. **Ejecutar todas las celdas** (`Ctrl + F9`).
-3. **Auditar:** El script realiza una auditoría de 110 dígitos de la identidad de $e$, la ecuación maestra de $\alpha^{-1}$ y la saturación SNR de Riemann.
 
 ---
 

@@ -35,7 +35,7 @@ The **Modular Substrate Theory** proposes that the space-time continuum is an em
 
 Our high-precision validation (using `mpmath`) proves that these relationships are not numerical coincidences but fundamental laws of scale.
 
-![Convergence Graph](image_8a27ee.png)
+![Convergence Graph](MST_alpha_convergence.png)
 
 ### Audit Results Summary
 

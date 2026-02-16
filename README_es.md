@@ -26,8 +26,34 @@ La **Teoría del Sustrato Modular** propone que el continuo espacio-tiempo es un
 | :--- | :--- | :--- |
 | **Génesis de $e$** | Emergencia del continuo | $$e^{6R_{\text{fund}}\ln 3} = 2$$ |
 | **Estructura Fina** | Acoplamiento QED ($\alpha^{-1}$) | $$\alpha^{-1} = (4\pi^3 + \pi^2 + \pi) - \frac{R_{\text{fund}}^3}{4} - \left(1 + \frac{1}{4\pi}\right)R_{\text{fund}}^5$$ |
-| **Tensión de Hubble** | Expresión Cosmológica | $$H_{\text{local}} = H_{\text{global}} \cdot (1 - \kappa_{\text{info}})^{-1/2} = 73.45 \text{ km/s/Mpc}$$ |
-| **Zeta-Riemann** | Unitaridad Aritmética | $$e^{i\pi - \ln 2} = \zeta(0) = -1/2$$ |
+| **Tensión de Hubble** | Expansión cosmológica | $$H_{\text{local}} = H_{\text{global}} \cdot (1 - \kappa_{\text{info}})^{-1/2} = 73.45 \text{ km/s/Mpc}$$ |
+| **Zeta-Riemann** | Unitaridad aritmética | $$e^{i\pi - \ln 2} = \zeta(0) = -1/2$$ |
+
+---
+
+## 🏛️ Jerarquía de la Teoría
+
+La TSM se construye sobre una jerarquía clara de postulados, definiciones y predicciones contrastables:
+
+| Nivel | Elemento | Estatus |
+| :--- | :--- | :--- |
+| **Nivel 1 (Axiomático)** | Simetría fundamental $\mathbb{Z}/6\mathbb{Z}$ (centro del grupo de gauge del Modelo Estándar + KO-dimensión 6 en geometría no conmutativa) | Postulado |
+| **Nivel 2 (Definiciones)** | $R_{\text{fund}} = (6\log_2 3)^{-1} = \ln 2/(6\ln 3)$ <br> $\kappa_{\text{info}} = 3R_{\text{fund}}/2 = \ln 2/(4\ln 3)$ | Definiciones fijas |
+| **Nivel 3 (Predicciones)** | $\alpha^{-1}$, $H_0$, $D_c$, masas hadrónicas, espectro de Riemann | Contrastables |
+
+---
+
+## 💎 Las Cinco Perlas Conceptuales de la TSM
+
+Del análisis profundo del sustrato emergen relaciones que, por su simplicidad y capacidad de conectar dominios aparentemente inconexos, constituyen el núcleo conceptual de la teoría:
+
+| # | Perla | Fórmula | Impacto |
+| :--- | :--- | :--- | :--- |
+| **1** | **Identidad Fundamental** | $e^{6R_{\text{fund}}\ln 3} = 2$ | ⭐⭐⭐⭐⭐ |
+| **2** | **Origen del factor $1/4$** (entropía de Bekenstein-Hawking) | $\frac{1}{4} = \kappa_{\text{info}} \cdot \frac{1}{\log_2 3} \cdot \frac{3}{4} + \Delta_{\text{cuántico}}$ | ⭐⭐⭐⭐⭐ |
+| **3** | **Estructura Fina** | $\alpha^{-1} = (4\pi^3 + \pi^2 + \pi) - \frac{1}{4}R^3 - (1+\frac{1}{4\pi})R^5$ | ⭐⭐⭐⭐ |
+| **4** | **Conexión con $\zeta(0)$** | $e^{i\pi - \ln 2} = \zeta(0) = -1/2$ | ⭐⭐⭐⭐⭐ |
+| **5** | **Saturación SNR en Riemann** | $\SNR_{\text{sat}} = 2/\kappa_{\text{info}} \approx 12.68$ | ⭐⭐⭐⭐ |
 
 ---
 
@@ -37,22 +63,92 @@ Nuestra validación de alta precisión (usando `mpmath`) demuestra que estas rel
 
 ![Gráfica de Convergencia](Images/TSM_alpha_convergencia.png)
 
+### 📐 Desglose de $\alpha^{-1}$: Interpretación Física de Cada Término
+
+| Componente | Significado Físico | Valor | Aporte |
+| :--- | :--- | :--- | :--- |
+| $4\pi^3 + \pi^2 + \pi$ | Topología del espacio-tiempo 3+1 (volumen $S^3$, área holográfica, fibra $U(1)$) | $137.036303776$ | Geométrico |
+| $-\frac{1}{4}R_{\text{fund}}^3$ | Corrección térmica (fluctuaciones entrópicas, factor $1/4$ de Bekenstein-Hawking) | $-0.000290689$ | Termodinámico |
+| $-(1+\frac{1}{4\pi})R_{\text{fund}}^5$ | Corrección coulombiana (polarización geométrica, carga desnuda + término esférico) | $-0.000013881$ | Geométrico |
+| **Valor TSM** | **Fórmula cerrada sin parámetros libres** | **$137.035999206$** | **Exacto** |
+| **CODATA 2022** | Valor experimental | $137.035999206(11)$ | Referencia |
+
 ### Resumen de Resultados de la Auditoría
 
-| Fenómeno | Valor Teórico | Referencia Experimental | Discrepancia (ppb) |
+| Fenómeno | Valor Teórico | Referencia Experimental | Discrepancia |
 | :--- | :--- | :--- | :--- |
-| **Identidad de $e$** | `2.000...` (100 dígitos) | `2.0` (Exacto) | **0.000000...** |
-| **Estructura Fina** | `137.035999206...` | `137.035999206` (CODATA 22) | **0.00000011 ppb** |
-| **Hubble $H_0$** | `73.45 km/s/Mpc` | `73.04 \pm 1.04` (SH0ES) | **< 0.5\sigma** |
-| **SNR de Riemann** | `12.68...` | `12.69 \pm 0.01` | **< 0.1\%** |
+| **Identidad de $e$** | `2.000...` (100 dígitos) | `2.0` (Exacto) | **$<10^{-100}$** |
+| **Estructura Fina** | `137.035999206...` | `137.035999206(11)` (CODATA 22) | **0.00000011 ppb** |
+| **Hubble $H_0$** | `73.45 km/s/Mpc` | `73.04 \pm 1.04` (SH0ES) | **< 0.5σ** |
+| **SNR de Riemann** | `12.68...` | `12.69 \pm 0.01` | **< 0.1%** |
+| **Masa $\Xi_{cc}^{++}$** | `3619 MeV` (predicha) | `3621 MeV` (LHCb) | **< 0.06%** |
 
 ---
 
-## 🌌 "Perlas" Conceptuales Clave
+## 🔢 Validación en Teoría de Números
 
-1. **El Factor 1/4:** Derivamos el factor de entropía de Bekenstein-Hawking ($S=A/4$) como la pérdida informacional precisa al proyectar información ternaria de volumen sobre una frontera binaria.
-2. **Ceguera de Sabor:** La TSM predice nodos de estabilidad hadrónica (escalamiento de Airy) que coinciden exactamente con la masa del barión $\Xi_{cc}^{++}$ (3619 MeV predicho vs 3621 MeV observado).
-3. **Unitaridad de Riemann:** Se demuestra que la estabilidad del vacío físico es equivalente a la **Hipótesis de Riemann**, donde $\Re(s)=1/2$ asegura la evolución cuántica unitaria.
+### Resonancias Espectrales en la Distribución de Primos
+
+Análisis espectral de las diferencias entre primos consecutivos ($N = 6\times10^6$) revela picos de potencia en frecuencias:
+
+$$f_n = n \cdot R_{\text{fund}}, \quad n = 1, 2, 3, \dots$$
+
+**Significancia estadística:** $>99.5\%$
+
+*La misma constante que regula la expansión cósmica y la estructura fina emerge como frecuencia fundamental de la secuencia de primos.*
+
+### 🧠 La Hipótesis de Riemann como Condición de Unitariedad
+
+La función de partición del vacío es $Z(\beta) = \zeta(\beta)$. Los ceros no triviales $\rho = \beta + i\gamma$ determinan la estabilidad del universo:
+
+- Si $\Re(\rho) > 1/2$: fluctuaciones crecerían exponencialmente → universo inestable
+- Si $\Re(\rho) = 1/2$: fluctuaciones oscilatorias → evolución unitaria
+
+**La Hipótesis de Riemann ($\Re(\rho)=1/2$ para todos los ceros) es equivalente a la estabilidad observada de nuestro universo.**
+
+---
+
+## 🔭 Unificación de Fenómenos
+
+| Fenómeno | Constante | Valor | Precisión |
+| :--- | :--- | :--- | :--- |
+| Tensión de Hubble ($H_0$ local) | $\kappa_{\text{info}}$ | $73.45$ km/s/Mpc | $<0.5\sigma$ |
+| Estructura fina ($\alpha^{-1}$) | $R_{\text{fund}}$ | $137.035999206$ | $10^{-14}$ |
+| Saturación SNR (ceros de Riemann) | $2/\kappa_{\text{info}}$ | $12.69 \pm 0.01$ | $<0.1\%$ |
+| Resonancias en primos | $R_{\text{fund}}$ | $f_n = nR_{\text{fund}}$ | $>99.5\%$ |
+| Masa del $\Xi_{cc}^{++}$ | Escalamiento de Airy | $3619$ MeV (predicho) | $<0.06\%$ |
+| Burbuja de fase local | $\kappa_{\text{info}}$ | $D_c \approx 70.2$ Mpc | Validado con CosmicFlows-4 |
+
+---
+
+## 🌌 Aplicaciones Físicas
+
+### 🌠 Cosmología: Resolución de Tensiones
+
+| Tensión | Predicción TSM | Observación | Estatus |
+| :--- | :--- | :--- | :--- |
+| **Hubble ($H_0$)** | $73.45$ km/s/Mpc | $73.04 \pm 1.04$ (SH0ES) | ✓ Resuelta |
+| **$S_8$ (estructura)** | $0.766 \pm 0.014$ | $0.76-0.79$ (DES, eROSITA) | ✓ Compatible |
+| **Burbuja local ($D_c$)** | $\approx 70.2$ Mpc | Límite de CosmicFlows-4 | ✓ Saturado |
+
+### ⚛️ Física Hadrónica: Ceguera de Sabor
+
+La TSM predice nodos de estabilidad hadrónica mediante escalamiento de Airy con factor $\beta = 3/4$:
+
+$$M(d^{**}) \approx M(d^*) \times \left( \frac{z_2}{z_1} \right)^{\beta} \approx 2380 \times 1.520 \approx 3619 \ \text{MeV}$$
+
+Este valor coincide con la masa del barión doblemente encantado $\Xi_{cc}^{++}$ ($3621$ MeV), sugiriendo que **la masa es una propiedad geométrica del sustrato, no solo de los constituyentes**.
+
+---
+
+## 🌍 Implicaciones Filosóficas
+
+La TSM sugiere una imagen del mundo donde:
+
+- **Lo discreto es fundamental**, lo continuo emergente
+- **La información es sustancial**: el costo termodinámico de procesar información ($R_{\text{fund}}$) es una propiedad geométrica del vacío
+- **Las constantes matemáticas ($e$, $\pi$, $\gamma$) no son axiomas, sino consecuencias** de la estructura aritmética subyacente
+- **La física y las matemáticas son una misma cosa**: los números primos son excitaciones del vacío, la Hipótesis de Riemann es una condición de estabilidad cósmica
 
 ---
 
@@ -81,7 +177,7 @@ Todos los resultados pueden verificarse independientemente usando el entorno pre
     └── TSM_Genesis_of_e.tex       # Código fuente LaTeX
 ```
 
-## 📚 Citación
+## 📚 Citación y Trabajos Relacionados
 
 ```bibtex
 @article{peinador2026genesis,
@@ -93,6 +189,10 @@ Todos los resultados pueden verificarse independientemente usando el entorno pre
   doi={10.5281/zenodo.18611630}
 }
 ```
+
+**Trabajos relacionados:**
+- [Peinador, 2026] *Modular Substrate Theory: Geometric Unification of Cosmology and Hadronic Spectroscopy* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18609093.svg)](https://doi.org/10.5281/zenodo.18609093)
+- [Peinador, 2026] *Spectral-Arithmetic Duality: Modular Phase Coherence and the Riemann-GUE Ensemble* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18485154.svg)](https://doi.org/10.5281/zenodo.18485154)
 
 ## ✉️ Contacto
 

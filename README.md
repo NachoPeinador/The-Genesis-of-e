@@ -1,14 +1,14 @@
 # The Genesis of $e$: Unified Fundamental Constants via the $\mathbb{Z}/6\mathbb{Z}$ Substrate
 
-[![Read in Spanish](https://img.shields.io/badge/Lang-Leer%20en%20Español-red?style=flat&logoColor=white&color=B31B1B)](https://github.com/NachoPeinador/Modular-Substrate-Theory/blob/main/README_es.md)
+[![Read in Spanish](https://img.shields.io/badge/Lang-Leer%20en%20Español-red?style=flat&logoColor=white&color=B31B1B)](https://github.com/NachoPeinador/The-Genesis-of-e/blob/main/README_es.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![Precision](https://img.shields.io/badge/Identity--e-10%E2%81%BB%C2%B9%E2%81%B0%C2%B9-brightgreen)](https://github.com/NachoPeinador/Modular-Substrate-Theory)
+[![Precision](https://img.shields.io/badge/Identity--e-10%E2%81%BB%C2%B9%E2%81%B0%C2%B9-brightgreen)](https://github.com/NachoPeinador/The-Genesis-of-e)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--1822--3452-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-1822-3452) 
 [![X](https://img.shields.io/badge/X-%40todos__lumpen-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/todos_lumpen)
-[![Hubble Tension](https://img.shields.io/badge/H0--Resolved-73.45-success)](https://github.com/NachoPeinador/Modular-Substrate-Theory)
-[![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/Modular-Substrate-Theory/blob/main/Paper/TSM_Genesis_of_e.pdf)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Modular-Substrate-Theory/blob/main/Notebooks/TSM_Master_Validation.ipynb)
+[![Hubble Tension](https://img.shields.io/badge/H0--Resolved-73.45-success)](https://github.com/NachoPeinador/The-Genesis-of-e)
+[![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/The-Genesis-of-e/blob/main/Paper/TSM_Genesis_of_e.pdf)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/The-Genesis-of-e.ipynb)
 
 > **"Nature is an arithmetic orchestration from the $\mathbb{Z}/6\mathbb{Z}$ modular substrate."**
 
@@ -60,7 +60,7 @@ Our high-precision validation (using `mpmath`) proves that these relationships a
 
 All results can be independently verified using the pre-configured environment below:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Modular-Substrate-Theory/blob/main/Notebooks/TSM_Master_Validation.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Genesis_of_e/blob/main/Notebooks/The-Genesis-of-e.ipynb)
 
 ### Verification Steps
 
@@ -77,14 +77,10 @@ All results can be independently verified using the pre-configured environment b
 
 ├── README.md                      # Unified project overview
 ├── Notebooks/
-│   └── TSM_Master_Validation.ipynb # 110-digit high-precision audit script
-├── Paper/
-│   ├── TSM_Genesis_of_e.pdf       # Full Unified Manuscript
-│   └── TSM_Genesis_of_e.tex       # LaTeX source
-├── Data/
-│   └── Riemann_Spectrum_Phase.csv # Phase coherence data for Zeta zeros
-└── Graphics/
-└── image_8a27ee.png           # Alpha convergence graph
+│   └── The-Genesis-of-e.ipynb     # 110-digit high-precision audit script
+└── Paper/
+    ├── TSM_Genesis_of_e.pdf       # Full Unified Manuscript
+    └── TSM_Genesis_of_e.tex       # LaTeX source
 
 ```
 
@@ -96,7 +92,7 @@ All results can be independently verified using the pre-configured environment b
   author={Peinador Sala, José Ignacio},
   journal={Modular Algebraic Structures Institute},
   year={2026},
-  url={[https://github.com/NachoPeinador/Modular-Substrate-Theory](https://github.com/NachoPeinador/Modular-Substrate-Theory)},
+  url={[https://github.com/NachoPeinador/Modular-Substrate-Theory](https://github.com/NachoPeinador/Genesis_of_e)},
   doi={10.5281/zenodo.18611630}
 }
 

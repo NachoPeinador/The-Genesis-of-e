@@ -111,5 +111,3 @@ All results can be independently verified using the pre-configured environment b
 ---
 
 *Unifying the arithmetic of the vacuum with the geometry of the cosmos.*
-
-```

@@ -1,10 +1,3 @@
-Este diseño de **README.md** está optimizado para actuar como el portal principal de tu repositorio unificado de la **Teoría del Sustrato Modular (TSM)**. He conservado la estética sobria y funcional de tu base original, pero elevando el contenido para reflejar la unificación total: **Hubble, , la identidad de  y Riemann.**
-
-Copia y pega este bloque en tu archivo `README.md`:
-
----
-
-```markdown
 # The Genesis of $e$: Unified Fundamental Constants via the $\mathbb{Z}/6\mathbb{Z}$ Substrate
 
 [![Read in Spanish](https://img.shields.io/badge/Lang-Leer%20en%20Español-red?style=flat&logoColor=white&color=B31B1B)](https://github.com/NachoPeinador/Modular-Substrate-Theory/blob/main/README_es.md)

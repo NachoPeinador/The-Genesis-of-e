@@ -158,6 +158,17 @@ All results can be independently verified using the preconfigured environment be
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/The-Genesis-of-e.ipynb)
 
+## 🛠️ Scientific Reproducibility
+
+All computational analysis is transparent and reproducible. Run calculations directly in the cloud:
+
+| Domain | Notebook | Key Calculations / Validations |
+| --- | --- | --- |
+| **🌌 Cosmology** | [ [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]](https://colab.research.google.com/github/NachoPeinador/Modular-Substrate-Theory/blob/main/Notebooks/MST_Cosmology.ipynb) | •  Tension Resolution (73.52 km/s/Mpc)<br>•  Calculation & Local Bubble |
+| **⚛️ Hadrons** | [ [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]](https://colab.research.google.com/github/NachoPeinador/Modular-Substrate-Theory/blob/main/Notebooks/MST_Hadronic.ipynb) | • Hexaquark  Mass $d^{**}$ (3619 MeV)<br>• Compression Factor $\Gamma \approx 0.726$ |
+| **🧮 Mathematics** | [ [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]](https://colab.research.google.com/github/NachoPeinador/Modular-Substrate-Theory/blob/main/Notebooks/Harmonic_primes.ipynb) | • Spectral Resonance in Prime Gaps<br>• Validation of Harmonics $m \cdot R_{\text{fund}}$ |
+| **🧮 Alpha & e ** | [ [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]](https://colab.research.google.com/github/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/The-Genesis-of-e.ipynb) | • Spectral Resonance in Prime Gaps<br>• Validation of Harmonics $m \cdot R_{\text{fund}}$ |
+
 ### Verification Steps
 
 1. **Launch** the Colab Notebook.

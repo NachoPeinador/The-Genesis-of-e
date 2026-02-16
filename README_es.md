@@ -35,7 +35,7 @@ La **Teoría del Sustrato Modular** propone que el continuo espacio-tiempo es un
 
 Nuestra validación de alta precisión (usando `mpmath`) demuestra que estas relaciones no son coincidencias numéricas sino leyes fundamentales de escala.
 
-![Gráfica de Convergencia](image_8a27ee.png)
+![Gráfica de Convergencia](Images/TSM_alpha_convergencia.png)
 
 ### Resumen de Resultados de la Auditoría
 

@@ -12,7 +12,7 @@
 
 > **"Nature is an arithmetic orchestration from the $\mathbb{Z}/6\mathbb{Z}$ modular substrate."**
 
-This repository provides the 110-digit precision audit, source code, and full manuscript for the **Modular Substrate Theory (MST)**. We present a unified framework that derives the fundamental constants of physics—$\alpha$, $H_0$, $e$, and the $1/4$ entropy factor—from a single algebraic principle.
+This repository provides the 110-digit precision audit, source code, and full manuscript for the **Modular Substrate Theory (MST)**. We present a unified framework that derives the fundamental constants of physics $\alpha$, $H_0$, $e$, and the $1/4$ entropy factor from a single algebraic principle.
 
 ---
 

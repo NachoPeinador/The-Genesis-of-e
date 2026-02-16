@@ -1,107 +1,107 @@
-# The Genesis of $e$: Unified Fundamental Constants via the $\mathbb{Z}/6\mathbb{Z}$ Substrate
+# La Génesis de $e$: Constantes Fundamentales Unificadas mediante el Sustrato $\mathbb{Z}/6\mathbb{Z}$
 
-[![Read in Spanish](https://img.shields.io/badge/Lang-Leer%20en%20Español-red?style=flat&logoColor=white&color=B31B1B)](https://github.com/NachoPeinador/The-Genesis-of-e/blob/main/README_es.md)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Leer en Inglés](https://img.shields.io/badge/Lang-Read%20in%20English-blue?style=flat&logoColor=white&color=blue)](https://github.com/NachoPeinador/The-Genesis-of-e/blob/main/README.md)
+[![Licencia: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![Precision](https://img.shields.io/badge/Identity--e-10%E2%81%BB%C2%B9%E2%81%B0%C2%B9-brightgreen)](https://github.com/NachoPeinador/The-Genesis-of-e)
+[![Precisión](https://img.shields.io/badge/Identidad--e-10%E2%81%BB%C2%B9%E2%81%B0%C2%B9-brightgreen)](https://github.com/NachoPeinador/The-Genesis-of-e)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--1822--3452-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-1822-3452) 
 [![X](https://img.shields.io/badge/X-%40todos__lumpen-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/todos_lumpen)
-[![Hubble Tension](https://img.shields.io/badge/H0--Resolved-73.45-success)](https://github.com/NachoPeinador/The-Genesis-of-e)
-[![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/The-Genesis-of-e/blob/main/Paper/TSM_Genesis_of_e.pdf)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/The-Genesis-of-e.ipynb)
+[![Tensión de Hubble](https://img.shields.io/badge/H0--Resuelta-73.45-success)](https://github.com/NachoPeinador/The-Genesis-of-e)
+[![Artículos](https://img.shields.io/badge/Paper-Leer_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/The-Genesis-of-e/blob/main/Paper/TSM_Genesis_of_e.pdf)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/The-Genesis-of-e.ipynb)
 
-> **"Nature is an arithmetic orchestration from the $\mathbb{Z}/6\mathbb{Z}$ modular substrate."**
+> **"La naturaleza es una orquestación aritmética desde el sustrato modular $\mathbb{Z}/6\mathbb{Z}$."**
 
-This repository provides the 110-digit precision audit, source code, and full manuscript for the **Modular Substrate Theory (MST)**. We present a unified framework that derives the fundamental constants of physics — $\alpha$, $H_0$, $e$, and the $1/4$ entropy factor — from a single algebraic principle.
+Este repositorio proporciona la auditoría de precisión de 110 dígitos, el código fuente y el manuscrito completo de la **Teoría del Sustrato Modular (TSM)**. Presentamos un marco unificado que deriva las constantes fundamentales de la física — $\alpha$, $H_0$, $e$, y el factor de entropía $1/4$ — a partir de un único principio algebraico.
 
 ---
 
-## 📄 Abstract: The Unified Framework
+## 📄 Resumen: El Marco Unificado
 
-The **Modular Substrate Theory** proposes that the space-time continuum is an emergent property of a discrete informational processing layer. By reconciling ternary volume logic (Bulk) with binary surface encoding (Boundary), we derive the **Fundamental Impedance of the Vacuum ($R_{\text{fund}}$)**.
+La **Teoría del Sustrato Modular** propone que el continuo espacio-tiempo es una propiedad emergente de una capa de procesamiento informacional discreto. Al reconciliar la lógica ternaria de volumen (Bulk) con la codificación binaria de superficie (Boundary), derivamos la **Impedancia Fundamental del Vacío ($R_{\text{fund}}$)**.
 
-### The Master Identities
+### Las Identidades Maestras
 
-| Identity | Physical Significance | Equation |
+| Identidad | Significado Físico | Ecuación |
 | :--- | :--- | :--- |
-| **Genesis of $e$** | Emergence of the continuum | $$e^{6R_{\text{fund}}\ln 3} = 2$$ |
-| **Fine Structure** | QED Coupling ($\alpha^{-1}$) | $$\alpha^{-1} = (4\pi^3 + \pi^2 + \pi) - \frac{R_{\text{fund}}^3}{4} - \left(1 + \frac{1}{4\pi}\right)R_{\text{fund}}^5$$ |
-| **Hubble Tension** | Cosmological Expansion | $$H_{\text{local}} = H_{\text{global}} \cdot (1 - \kappa_{\text{info}})^{-1/2} = 73.45 \text{ km/s/Mpc}$$ |
-| **Zeta-Riemann** | Arithmetic Unitarity | $$e^{i\pi - \ln 2} = \zeta(0) = -1/2$$ |
+| **Génesis de $e$** | Emergencia del continuo | $$e^{6R_{\text{fund}}\ln 3} = 2$$ |
+| **Estructura Fina** | Acoplamiento QED ($\alpha^{-1}$) | $$\alpha^{-1} = (4\pi^3 + \pi^2 + \pi) - \frac{R_{\text{fund}}^3}{4} - \left(1 + \frac{1}{4\pi}\right)R_{\text{fund}}^5$$ |
+| **Tensión de Hubble** | Expresión Cosmológica | $$H_{\text{local}} = H_{\text{global}} \cdot (1 - \kappa_{\text{info}})^{-1/2} = 73.45 \text{ km/s/Mpc}$$ |
+| **Zeta-Riemann** | Unitaridad Aritmética | $$e^{i\pi - \ln 2} = \zeta(0) = -1/2$$ |
 
 ---
 
-## 📊 110-Digit Precision Audit
+## 📊 Auditoría de Precisión de 110 Dígitos
 
-Our high-precision validation (using `mpmath`) proves that these relationships are not numerical coincidences but fundamental laws of scale.
+Nuestra validación de alta precisión (usando `mpmath`) demuestra que estas relaciones no son coincidencias numéricas sino leyes fundamentales de escala.
 
-![Convergence Graph](image_8a27ee.png)
+![Gráfica de Convergencia](image_8a27ee.png)
 
-### Audit Results Summary
+### Resumen de Resultados de la Auditoría
 
-| Phenomenon | Theoretical Value | Experimental Reference | Discrepancy (ppb) |
+| Fenómeno | Valor Teórico | Referencia Experimental | Discrepancia (ppb) |
 | :--- | :--- | :--- | :--- |
-| **Identity of $e$** | `2.000...` (100 digits) | `2.0` (Exact) | **0.000000...** |
-| **Fine Structure** | `137.035999206...` | `137.035999206` (CODATA 22) | **0.00000011 ppb** |
+| **Identidad de $e$** | `2.000...` (100 dígitos) | `2.0` (Exacto) | **0.000000...** |
+| **Estructura Fina** | `137.035999206...` | `137.035999206` (CODATA 22) | **0.00000011 ppb** |
 | **Hubble $H_0$** | `73.45 km/s/Mpc` | `73.04 \pm 1.04` (SH0ES) | **< 0.5\sigma** |
-| **Riemann SNR** | `12.68...` | `12.69 \pm 0.01` | **< 0.1\%** |
+| **SNR de Riemann** | `12.68...` | `12.69 \pm 0.01` | **< 0.1\%** |
 
 ---
 
-## 🌌 Key Conceptual "Pearls"
+## 🌌 "Perlas" Conceptuales Clave
 
-1. **The 1/4 Factor:** We derive the Bekenstein-Hawking entropy factor ($S=A/4$) as the precise informational loss when projecting ternary bulk information onto a binary boundary.
-2. **Flavor Blindness:** The MST predicts hadronic stability nodes (Airy scaling) that exactly match the mass of the $\Xi_{cc}^{++}$ baryon (3619 MeV predicted vs 3621 MeV observed).
-3. **Riemann Unitarity:** The stability of the physical vacuum is proven to be equivalent to the **Riemann Hypothesis**, where $\Re(s)=1/2$ ensures unitary quantum evolution.
-
----
-
-## 🛠️ Reproducibility: MST Auditor 2.0
-
-All results can be independently verified using the pre-configured environment below:
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/The-Genesis-of-e.ipynb)
-
-### Verification Steps
-
-1. **Launch** the Colab Notebook.
-2. **Run all cells** (`Ctrl + F9`).
-3. **Audit:** The script performs a 110-digit audit of the identity of $e$, the $\alpha^{-1}$ master equation, and the Riemann SNR saturation.
+1. **El Factor 1/4:** Derivamos el factor de entropía de Bekenstein-Hawking ($S=A/4$) como la pérdida informacional precisa al proyectar información ternaria de volumen sobre una frontera binaria.
+2. **Ceguera de Sabor:** La TSM predice nodos de estabilidad hadrónica (escalamiento de Airy) que coinciden exactamente con la masa del barión $\Xi_{cc}^{++}$ (3619 MeV predicho vs 3621 MeV observado).
+3. **Unitaridad de Riemann:** Se demuestra que la estabilidad del vacío físico es equivalente a la **Hipótesis de Riemann**, donde $\Re(s)=1/2$ asegura la evolución cuántica unitaria.
 
 ---
 
-## 📂 Repository Structure
+## 🛠️ Reproducibilidad: Auditor TSM 2.0
+
+Todos los resultados pueden verificarse independientemente usando el entorno preconfigurado a continuación:
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/The-Genesis-of-e.ipynb)
+
+### Pasos de Verificación
+
+1. **Abrir** el Notebook de Colab.
+2. **Ejecutar todas las celdas** (`Ctrl + F9`).
+3. **Auditar:** El script realiza una auditoría de 110 dígitos de la identidad de $e$, la ecuación maestra de $\alpha^{-1}$ y la saturación SNR de Riemann.
+
+---
+
+## 📂 Estructura del Repositorio
 
 ```
-├── README.md                      # Unified project overview
+├── README.md                      # Visión general del proyecto (Español)
 ├── Notebooks/
-│   └── The-Genesis-of-e.ipynb     # 110-digit high-precision audit script
+│   └── The-Genesis-of-e.ipynb     # Script de auditoría de alta precisión de 110 dígitos
 └── Paper/
-    ├── TSM_Genesis_of_e.pdf       # Full Unified Manuscript
-    └── TSM_Genesis_of_e.tex       # LaTeX source
+    ├── TSM_Genesis_of_e.pdf       # Manuscrito Unificado Completo
+    └── TSM_Genesis_of_e.tex       # Código fuente LaTeX
 ```
 
-## 📚 Citation
+## 📚 Citación
 
 ```bibtex
 @article{peinador2026genesis,
-  title={The Genesis of $e$ and the Unification of Fundamental Constants from the $\mathbb{Z}/6\mathbb{Z}$ Modular Substrate},
+  title={La Génesis de $e$ y la Unificación de las Constantes Fundamentales desde el Sustrato Modular $\mathbb{Z}/6\mathbb{Z}$},
   author={Peinador Sala, José Ignacio},
-  journal={Modular Algebraic Structures Institute},
+  journal={Instituto de Estructuras Modulares Algebraicas},
   year={2026},
   url={https://github.com/NachoPeinador/The-Genesis-of-e},
   doi={10.5281/zenodo.18611630}
 }
 ```
 
-## ✉️ Contact
+## ✉️ Contacto
 
 **José Ignacio Peinador Sala**  
-*Independent Researcher, Institute of Modular Algebraic Structures*  
-Valladolid, Spain
+*Investigador Independiente, Instituto de Estructuras Modulares Algebraicas*  
+Valladolid, España
 
 📧 [joseignacio.peinador@gmail.com](mailto:joseignacio.peinador@gmail.com)
 
 ---
 
-*Unifying the arithmetic of the vacuum with the geometry of the cosmos.*
+*Unificando la aritmética del vacío con la geometría del cosmos.*

@@ -8,7 +8,7 @@
 [![X](https://img.shields.io/badge/X-%40todos__lumpen-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/todos_lumpen)
 [![Hubble Tension](https://img.shields.io/badge/H0--Resolved-73.45-success)](https://github.com/NachoPeinador/The-Genesis-of-e)
 [![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/The-Genesis-of-e/blob/main/Paper/The-Genesis-of-e.pdf)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/The-Genesis-of-e.ipynb)[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.?????????-333333.svg?style=flate&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.?????????)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/The-Genesis-of-e.ipynb)[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18673474-333333.svg?style=flate&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.18673474)
 
 > **"Nature is an arithmetic orchestration from the $\mathbb{Z}/6\mathbb{Z}$ modular substrate."**
 

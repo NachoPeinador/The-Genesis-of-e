@@ -63,7 +63,7 @@ From the deep analysis of the substrate emerge relationships that, due to their 
 | **2** | **Origin of the $1/4$ factor** (Bekenstein-Hawking entropy) | $\frac{1}{4} = \kappa_{\text{info}} \cdot \frac{1}{\log_2 3} \cdot \frac{3}{4} + \Delta_{\text{quantum}}$ | ⭐⭐⭐⭐⭐ |
 | **3** | **Fine Structure** | $\alpha^{-1} = (4\pi^3 + \pi^2 + \pi) - \frac{1}{4}R^3 - (1+\frac{1}{4\pi})R^5$ | ⭐⭐⭐⭐ |
 | **4** | **Connection with $\zeta(0)$** | $e^{i\pi - \ln 2} = \zeta(0) = -1/2$ | ⭐⭐⭐⭐⭐ |
-| **5** | **SNR Saturation in Riemann** | $\SNR_{\text{sat}} = 2/\kappa_{\text{info}} \approx 12.68$ | ⭐⭐⭐⭐ |
+| **5** | **SNR Saturation in Riemann** | $SNR_{\text{sat}} = 2/\kappa_{\text{info}} \approx 12.68$ | ⭐⭐⭐⭐ |
 
 ---
 

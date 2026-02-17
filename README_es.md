@@ -8,7 +8,7 @@
 [![X](https://img.shields.io/badge/X-%40todos__lumpen-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/todos_lumpen)
 [![Tensión de Hubble](https://img.shields.io/badge/H0--Resuelta-73.45-success)](https://github.com/NachoPeinador/The-Genesis-of-e)
 [![Artículos](https://img.shields.io/badge/Paper-Leer_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/The-Genesis-of-e/blob/main/Paper/La_Genesis_de_e.pdf)
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/La-Genesis-de-e.ipynb)[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.?????????-333333.svg?style=flate&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.?????????)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/La-Genesis-de-e.ipynb)[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18673474-333333.svg?style=flate&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.18673474)
 
 > **"La naturaleza es una orquestación aritmética desde el sustrato modular $\mathbb{Z}/6\mathbb{Z}$."**
 
@@ -213,7 +213,7 @@ Para estudios en profundidad de la **saturación SNR de Riemann** ($SNR_{\text{s
   journal={Instituto de Estructuras Modulares Algebraicas},
   year={2026},
   url={https://github.com/NachoPeinador/The-Genesis-of-e},
-  doi={10.5281/zenodo.18611630}
+  doi={10.5281/zenodo.18673474}
 }
 ```
 

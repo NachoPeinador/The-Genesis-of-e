@@ -31,6 +31,25 @@ The **Modular Substrate Theory** proposes that the space-time continuum is an em
 
 ---
 
+> ## 🔷 The Master Identities
+> 
+> The theory is built upon a single fundamental constant derived from the $\mathbb{Z}/6\mathbb{Z}$ structure:
+> 
+> $$R_{\text{fund}} = \frac{1}{6\log_2 3} = \frac{\ln 2}{6\ln 3} \approx 0.1051549589$$
+> 
+> This **informational impedance of the vacuum** — the thermodynamic cost of projecting ternary information (bulk) onto binary degrees of freedom (boundary) — is the seed from which all other relationships emerge:
+> 
+> | Identity | Physical Significance | Equation |
+> | :--- | :--- | :--- |
+> | **Genesis of $e$** | Emergence of the continuum | $$e^{6R_{\text{fund}}\ln 3} = 2$$ |
+> | **Fine Structure** | QED Coupling ($\alpha^{-1}$) | $$\alpha^{-1} = (4\pi^3 + \pi^2 + \pi) - \frac{R_{\text{fund}}^3}{4} - \left(1 + \frac{1}{4\pi}\right)R_{\text{fund}}^5$$ |
+> | **Hubble Tension** | Cosmological expansion | $$H_{\text{local}} = H_{\text{global}} \cdot (1 - \kappa_{\text{info}})^{-1/2} = 73.45 \text{ km/s/Mpc}$$ |
+> | **Zeta-Riemann** | Arithmetic unitarity | $$e^{i\pi - \ln 2} = \zeta(0) = -1/2$$ |
+> 
+> **Note:** $\kappa_{\text{info}} = \frac{3}{2}R_{\text{fund}} = \frac{\ln 2}{4\ln 3}$ is the information-expansion coupling constant, directly derived from $R_{\text{fund}}$.
+
+---
+
 ## 🏛️ Theory Hierarchy
 
 MST is built on a clear hierarchy of postulates, definitions, and testable predictions:

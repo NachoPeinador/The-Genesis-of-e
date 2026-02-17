@@ -181,13 +181,13 @@ All computational analysis is transparent and reproducible. Run calculations dir
 
 ### 🎵 Riemann Spectrum Analysis
 
-For in-depth studies of the **Riemann-SNR saturation** ($\SNR_{\text{sat}} = 2/\kappa_{\text{info}} \approx 12.68$) and the **modular arithmetic crystal**, visit the dedicated repository:
+For in-depth studies of the **Riemann-SNR saturation** ($SNR_{\text{sat}} = 2/\kappa_{\text{info}} \approx 12.68$) and the **modular arithmetic crystal**, visit the dedicated repository:
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-RIEMANN_Z6-181717?style=for-the-badge&logo=github)](https://github.com/NachoPeinador/RIEMANN_Z6)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/RIEMANN_Z6/blob/main/notebooks/Dualidad_Z6.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/RIEMANN_Z6/blob/main/Notebooks/Spectral_Arithmetic_Duality.ipynb)
 
 **Key validations available:**
-- • **SNR Saturation Analysis:** Verification of $\SNR_{\text{sat}} = 12.69 \pm 0.01$ from the first $10^5$ Riemann zeros
+- • **SNR Saturation Analysis:** Verification of $SNR_{\text{sat}} = 12.69 \pm 0.01$ from the first $10^5$ Riemann zeros
 - • **Modular Phase Coherence:** Detection of $\mathbb{Z}/6\mathbb{Z}$ symmetry in the arithmetic crystal
 - • **Spectral Analysis:** Complete replication of the results from *"Spectral-Arithmetic Duality"* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18485154.svg)](https://doi.org/10.5281/zenodo.18485154)
 

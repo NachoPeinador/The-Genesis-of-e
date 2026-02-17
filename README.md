@@ -20,15 +20,6 @@ This repository provides the 110-digit precision audit, source code, and full ma
 
 The **Modular Substrate Theory** proposes that the space-time continuum is an emergent property of a discrete informational processing layer. By reconciling ternary volume logic (Bulk) with binary surface encoding (Boundary), we derive the **Fundamental Impedance of the Vacuum ($R_{\text{fund}}$)**.
 
-### The Master Identities
-
-| Identity | Physical Significance | Equation |
-| :--- | :--- | :--- |
-| **Genesis of $e$** | Emergence of the continuum | $$e^{6R_{\text{fund}}\ln 3} = 2$$ |
-| **Fine Structure** | QED Coupling ($\alpha^{-1}$) | $$\alpha^{-1} = (4\pi^3 + \pi^2 + \pi) - \frac{R_{\text{fund}}^3}{4} - \left(1 + \frac{1}{4\pi}\right)R_{\text{fund}}^5$$ |
-| **Hubble Tension** | Cosmological expansion | $$H_{\text{local}} = H_{\text{global}} \cdot (1 - \kappa_{\text{info}})^{-1/2} = 73.45 \text{ km/s/Mpc}$$ |
-| **Zeta-Riemann** | Arithmetic unitarity | $$e^{i\pi - \ln 2} = \zeta(0) = -1/2$$ |
-
 ---
 
 > ## 🔷 The Master Identities

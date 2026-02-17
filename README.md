@@ -162,12 +162,6 @@ MST suggests a worldview where:
 
 ---
 
-## 🛠️ Reproducibility: MST Auditor 2.0
-
-All results can be independently verified using the preconfigured environment below:
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/The-Genesis-of-e.ipynb)
-
 ## 🛠️ Scientific Reproducibility
 
 All computational analysis is transparent and reproducible. Run calculations directly in the cloud:

@@ -173,10 +173,23 @@ Todo el análisis computacional es transparente y reproducible. Ejecuta los cál
 | **🧮 Matemáticas** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Modular-Substrate-Theory/blob/main/Notebooks/Harmonic_primes.ipynb) | • Resonancia espectral en gaps de primos<br>• Validación de armónicos $m \cdot R_{\text{fund}}$ |
 | **💎 Alpha & e** | [ [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]](https://colab.research.google.com/github/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/La-Genesis-de-e.ipynb) | • 110-digit audit of the identity of $e$, the $\alpha^{-1}$ master equation<br> |
 
+### 🎵 Análisis del Espectro de Riemann
+
+Para estudios en profundidad de la **saturación SNR de Riemann** ($SNR_{\text{sat}} = 2/\kappa_{\text{info}} \approx 12.68$) y del **cristal aritmético modular**, visita el repositorio dedicado:
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-RIEMANN_Z6-181717?style=for-the-badge&logo=github)](https://github.com/NachoPeinador/RIEMANN_Z6)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/RIEMANN_Z6/blob/main/Notebooks/Dualidad_Espectral_Aritmetica.ipynb)
+
+**Validaciones clave disponibles:**
+- • **Análisis de Saturación SNR:** Verificación de $SNR_{\text{sat}} = 12.69 \pm 0.01$ a partir de los primeros $10^5$ ceros de Riemann
+- • **Coherencia de Fase Modular:** Detección de la simetría $\mathbb{Z}/6\mathbb{Z}$ en el cristal aritmético
+- • **Análisis Espectral:** Replicación completa de los resultados de *"Dualidad Espectral-Aritmética"* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18485154.svg)](https://doi.org/10.5281/zenodo.18485154)
+
 ### Pasos de Verificación
 
-1. **Abrir** el Notebook de Colab.
+1. **Abrir** cualquiera de los Notebooks de Colab anteriores.
 2. **Ejecutar todas las celdas** (`Ctrl + F9`).
+3. **Auditar:** Todos los scripts realizan validaciones de alta precisión (110 dígitos cuando corresponde) de las predicciones de la TSM.
 
 ---
 

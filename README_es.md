@@ -208,9 +208,9 @@ Para estudios en profundidad de la **saturación SNR de Riemann** ($SNR_{\text{s
 
 ```bibtex
 @article{peinador2026genesis,
-  title={La Génesis de $e$ y la Unificación de las Constantes Fundamentales desde el Sustrato Modular $\mathbb{Z}/6\mathbb{Z}$},
+  title={The Genesis of e and the Unification of Fundamental Constants from the Z/6Z Modular Substrate (Versión v1)},
   author={Peinador Sala, José Ignacio},
-  journal={Instituto de Estructuras Modulares Algebraicas},
+  journal={Zenodo},
   year={2026},
   url={https://github.com/NachoPeinador/The-Genesis-of-e},
   doi={10.5281/zenodo.18673474}

@@ -7,8 +7,8 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--1822--3452-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-1822-3452) 
 [![X](https://img.shields.io/badge/X-%40todos__lumpen-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/todos_lumpen)
 [![Tensión de Hubble](https://img.shields.io/badge/H0--Resuelta-73.45-success)](https://github.com/NachoPeinador/The-Genesis-of-e)
-[![Artículos](https://img.shields.io/badge/Paper-Leer_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/The-Genesis-of-e/blob/main/Paper/TSM_Genesis_of_e.pdf)
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/The-Genesis-of-e.ipynb)
+[![Artículos](https://img.shields.io/badge/Paper-Leer_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/The-Genesis-of-e/blob/main/Paper/La_Genesis_de_e.pdf)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/La-Genesis-de-e.ipynb)
 
 > **"La naturaleza es una orquestación aritmética desde el sustrato modular $\mathbb{Z}/6\mathbb{Z}$."**
 

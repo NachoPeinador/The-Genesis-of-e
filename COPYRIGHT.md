@@ -34,13 +34,11 @@ If you use the Arithmetic Vacuum Alpha theory, the provided code, or the derived
 
 **BibTeX:**
 ```bibtex
-@misc{peinador2026fine,
-  author       = {Peinador Sala, José Ignacio},
-  title        = {The Fine Structure of the Arithmetic Vacuum: Exact Derivation of $\alpha^{-1}$ via Modular Renormalization},
-  year         = {2026},
-  publisher    = {Zenodo},
-  version      = {1.0.0},
-  doi          = {10.5281/zenodo.18611630},
-  url          = {[https://github.com/NachoPeinador/The-Genesis-of-e](https://github.com/NachoPeinador/The-Genesis-of-e)},
-  note         = {Preprint}
+@article{peinador2026genesis,
+  title={The Genesis of e and the Unification of Fundamental Constants from the Z/6Z Modular Substrate (Versión v1)},
+  author={Peinador Sala, José Ignacio},
+  journal={Zenodo},
+  year={2026},
+  url={https://github.com/NachoPeinador/The-Genesis-of-e},
+  doi={10.5281/zenodo.18673474}
 }

@@ -20,14 +20,24 @@ Este repositorio proporciona la auditoría de precisión de 110 dígitos, el có
 
 La **Teoría del Sustrato Modular** propone que el continuo espacio-tiempo es una propiedad emergente de una capa de procesamiento informacional discreto. Al reconciliar la lógica ternaria de volumen (Bulk) con la codificación binaria de superficie (Boundary), derivamos la **Impedancia Fundamental del Vacío ($R_{\text{fund}}$)**.
 
-### Las Identidades Maestras
+---
 
-| Identidad | Significado Físico | Ecuación |
-| :--- | :--- | :--- |
-| **Génesis de $e$** | Emergencia del continuo | $$e^{6R_{\text{fund}}\ln 3} = 2$$ |
-| **Estructura Fina** | Acoplamiento QED ($\alpha^{-1}$) | $$\alpha^{-1} = (4\pi^3 + \pi^2 + \pi) - \frac{R_{\text{fund}}^3}{4} - \left(1 + \frac{1}{4\pi}\right)R_{\text{fund}}^5$$ |
-| **Tensión de Hubble** | Expansión cosmológica | $$H_{\text{local}} = H_{\text{global}} \cdot (1 - \kappa_{\text{info}})^{-1/2} = 73.45 \text{ km/s/Mpc}$$ |
-| **Zeta-Riemann** | Unitaridad aritmética | $$e^{i\pi - \ln 2} = \zeta(0) = -1/2$$ |
+> ## 🔷 Las Identidades Maestras
+> 
+> La teoría se construye sobre una única constante fundamental derivada de la estructura $\mathbb{Z}/6\mathbb{Z}$:
+> 
+> $$R_{\text{fund}} = \frac{1}{6\log_2 3} = \frac{\ln 2}{6\ln 3} \approx 0.1051549589$$
+> 
+> Esta **impedancia informacional del vacío** — el costo termodinámico de proyectar información ternaria (bulk) sobre grados binarios (boundary) — es la semilla de la que emergen todas las demás relaciones:
+> 
+> | Identidad | Significado Físico | Ecuación |
+> | :--- | :--- | :--- |
+> | **Génesis de $e$** | Emergencia del continuo | $$e^{6R_{\text{fund}}\ln 3} = 2$$ |
+> | **Estructura Fina** | Acoplamiento QED ($\alpha^{-1}$) | $$\alpha^{-1} = (4\pi^3 + \pi^2 + \pi) - \frac{R_{\text{fund}}^3}{4} - \left(1 + \frac{1}{4\pi}\right)R_{\text{fund}}^5$$ |
+> | **Tensión de Hubble** | Expansión cosmológica | $$H_{\text{local}} = H_{\text{global}} \cdot (1 - \kappa_{\text{info}})^{-1/2} = 73.45 \text{ km/s/Mpc}$$ |
+> | **Zeta-Riemann** | Unitaridad aritmética | $$e^{i\pi - \ln 2} = \zeta(0) = -1/2$$ |
+> 
+> **Nota:** $\kappa_{\text{info}} = \frac{3}{2}R_{\text{fund}} = \frac{\ln 2}{4\ln 3}$ es la constante de acoplamiento información-expansión, derivada directamente de $R_{\text{fund}}$.
 
 ---
 

@@ -208,13 +208,14 @@ For in-depth studies of the **Riemann-SNR saturation** ($SNR_{\text{sat}} = 2/\k
 
 ```bibtex
 @article{peinador2026genesis,
-  title={The Genesis of $e$ and the Unification of Fundamental Constants from the $\mathbb{Z}/6\mathbb{Z}$ Modular Substrate},
+  title={The Genesis of e and the Unification of Fundamental Constants from the Z/6Z Modular Substrate (Versión v1)},
   author={Peinador Sala, José Ignacio},
-  journal={Institute of Modular Algebraic Structures},
+  journal={Zenodo},
   year={2026},
   url={https://github.com/NachoPeinador/The-Genesis-of-e},
-  doi={10.5281/zenodo.18611630}
+  doi={10.5281/zenodo.18673474}
 }
+
 ```
 
 **Related works:**

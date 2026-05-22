@@ -224,7 +224,7 @@ Para estudios en profundidad de la **saturación SNR de Riemann** ($SNR_{\text{s
 ## ✉️ Contacto
 
 **José Ignacio Peinador Sala**  
-*Investigador Independiente, Instituto de Estructuras Modulares Algebraicas*  
+*Investigador Independiente*  
 Valladolid, España
 
 📧 [joseignacio.peinador@gmail.com](mailto:joseignacio.peinador@gmail.com)

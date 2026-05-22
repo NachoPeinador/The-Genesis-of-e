@@ -225,7 +225,7 @@ For in-depth studies of the **Riemann-SNR saturation** ($SNR_{\text{sat}} = 2/\k
 ## ✉️ Contact
 
 **José Ignacio Peinador Sala**  
-*Independent Researcher, Institute of Modular Algebraic Structures*  
+*Independent Researcher*  
 Valladolid, Spain
 
 📧 [joseignacio.peinador@gmail.com](mailto:joseignacio.peinador@gmail.com)

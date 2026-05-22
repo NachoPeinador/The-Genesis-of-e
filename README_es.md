@@ -13,7 +13,7 @@
 > **"La naturaleza es una orquestación aritmética desde el sustrato modular $\mathbb{Z}/6\mathbb{Z}$."**
 
 Este repositorio proporciona la auditoría de precisión de 110 dígitos, el código fuente y el manuscrito completo de la **La Génesis de e y la Unificación de
-Constantes Fundamentales desde el Sustrato Modular Z/6Z:Una Derivación desde Primeros Principios con Implicaciones Cosmológicas y Aritméticas**. Presentamos un marco unificado que deriva las constantes fundamentales de la física — $\alpha$, $H_0$, $e$, y el factor de entropía $1/4$ — a partir de un único principio algebraico.
+Constantes Fundamentales desde el Sustrato Modular Z/6Z: Una Derivación desde Primeros Principios con Implicaciones Cosmológicas y Aritméticas**. Presentamos un marco unificado que deriva las constantes fundamentales de la física — $\alpha$, $H_0$, $e$, y el factor de entropía $1/4$ — a partir de un único principio algebraico.
 
 ---
 

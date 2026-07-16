@@ -78,13 +78,13 @@ All analytic boundaries of the Modular Substrate Theory are validated in Python 
 
 | Evaluation / Theorem | Mathematical Formulation | Precision / Output | Verification Status | Platform / Library |
 | :--- | :--- | :--- | :--- | :--- |
-| **Identity 1** | $e^{6R_{\text{fund}}\ln 3} - 2 = 0$ | Error: $\sim 1.52 \times 10^{-151}$ | **Certified Exact** | Python (`mpmath` 150 dps)[cite: 1] |
-| **Identity 2** | $\mathrm{ROI}_{2\to 6} - R_{\text{fund}} = 0$ | Discrepancy: $\sim 1.90 \times 10^{-152}$ | **Certified Exact** | Python (`mpmath` 150 dps)[cite: 1] |
-| **Identity 3** | $\lvert \pi - (-i[\ln\zeta(0) + \ln 2]) \rvert = 0$ | Error: $0.0$ (Real part limit) | **Certified Exact** | Python (`mpmath` 150 dps)[cite: 1] |
-| **Rayleigh Test** | Circular Uniformity of Riemann Zeros | $Z = 194.60$, $p = 1.40 \times 10^{-83}$ | **Extremely Significant** | Python (`scipy.stats`)[cite: 1] |
-| **Theorem 1** | `theorem1_fundamental_identity` | Exit Code 0 | **Verified (0 sorries)** | Lean 4 Theorem Prover[cite: 1] |
-| **Theorem 2** | `theorem2_eratosthenes_isomorphism` | Exit Code 0 | **Verified (0 sorries)** | Lean 4 Theorem Prover[cite: 1] |
-| **Theorem 3** | `theorem3_analytic_vacuum_projection` | Exit Code 0 | **Verified (0 sorries)** | Lean 4 Theorem Prover[cite: 1] |
+| **Identity 1** | $e^{6R_{\text{fund}}\ln 3} - 2 = 0$ | Error: $\sim 1.52 \times 10^{-151}$ | **Certified Exact** | Python (`mpmath` 150 dps) |
+| **Identity 2** | $\mathrm{ROI}_{2\to 6} - R_{\text{fund}} = 0$ | Discrepancy: $\sim 1.90 \times 10^{-152}$ | **Certified Exact** | Python (`mpmath` 150 dps) |
+| **Identity 3** | $\lvert \pi - (-i[\ln\zeta(0) + \ln 2]) \rvert = 0$ | Error: $0.0$ (Real part limit) | **Certified Exact** | Python (`mpmath` 150 dps) |
+| **Rayleigh Test** | Circular Uniformity of Riemann Zeros | $Z = 194.60$, $p = 1.40 \times 10^{-83}$ | **Extremely Significant** | Python (`scipy.stats`) |
+| **Theorem 1** | `theorem1_fundamental_identity` | Exit Code 0 | **Verified (0 sorries)** | Lean 4 Theorem Prover |
+| **Theorem 2** | `theorem2_eratosthenes_isomorphism` | Exit Code 0 | **Verified (0 sorries)** | Lean 4 Theorem Prover |
+| **Theorem 3** | `theorem3_analytic_vacuum_projection` | Exit Code 0 | **Verified (0 sorries)** | Lean 4 Theorem Prover |
 
 ---
 

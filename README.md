@@ -4,7 +4,7 @@
 
 This repository hosts the official open-source computational laboratory, arbitrary-precision evaluation engines, and mechanized formal verification suites for the mathematical physics paper **"The Genesis of e from Modular Substrate Theory: Exact Identities, Eratosthenes Optimality, and the Riemann Zeta Function"**.
 
-We present three exact, parameter-free analytical identities linking the continuous growth constant ($e$), the Shannon information bit ($\ln 2$), the Riemann zeta function at the origin ($\zeta(0) = -1/2$), and the vacuum informational impedance ($R_{\text{fund}} = \ln 2 / (6\ln 3)$) derived under the Modular Substrate Theory (MST) framework. Furthermore, we provide empirical and analytical evidence of a highly significant phase quantization aligned with the 12-point dihedral symmetry group ($D_6$) of the $\mathbb{Z}/6\mathbb{Z}$ substrate across the non-trivial zeros of the Riemann zeta function, verified across variable adiabatic shifts.
+We present three exact, parameter-free analytical identities linking the continuous growth constant ($e$), the Shannon information bit ($\ln 2$), the Riemann zeta function at the origin ($\zeta(0) = -1/2$), and the vacuum informational impedance ($`R_{\text{fund}} = \ln 2 / (6\ln 3)`$) derived under the Modular Substrate Theory (MST) framework. Furthermore, we provide empirical and analytical evidence of a highly significant phase quantization aligned with the 12-point dihedral symmetry group ($D_6$) of the $\mathbb{Z}/6\mathbb{Z}$ substrate across the non-trivial zeros of the Riemann zeta function, verified across variable adiabatic shifts.
 
 ---
 

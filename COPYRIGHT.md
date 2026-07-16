@@ -35,10 +35,11 @@ If you use the Arithmetic Vacuum Alpha theory, the provided code, or the derived
 **BibTeX:**
 ```bibtex
 @article{peinador2026genesis,
-  title={The Genesis of e and the Unification of Fundamental Constants from the Z/6Z Modular Substrate (Versión v1)},
-  author={Peinador Sala, José Ignacio},
-  journal={Zenodo},
+  title={The Genesis of e from Modular Substrate Theory: Exact Identities, Eratosthenes Optimality, and the Riemann Zeta Function},
+  author={Peinador Sala, Jos{\'e} Ignacio},
+  journal={Journal of Noncommutative Geometry},
   year={2026},
+  volume={Submitted},
   url={https://github.com/NachoPeinador/The-Genesis-of-e},
-  doi={10.5281/zenodo.18673474}
+  doi={10.5281/zenodo.18673473}
 }

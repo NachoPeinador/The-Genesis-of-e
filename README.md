@@ -1,7 +1,15 @@
 # The Genesis of e from Modular Substrate Theory
 
 > **Exact Identities, Eratosthenes Optimality, and the Riemann Zeta Function**
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![Lean 4 Verified](https://img.shields.io/badge/Lean_4-Verified-purple.svg)](https://github.com/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/The_Genesis_of_e_Lean4_Verification.ipynb)
+[![Precision](https://img.shields.io/badge/precision-150_dps-brightgreen)](https://github.com/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/The_Genesis_of_e.ipynb)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--1822--3452-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-1822-3452) 
+[![Rayleigh Significance](https://img.shields.io/badge/Rayleigh_p-1.40%20%C3%97%2010%E2%81%BB%E2%81%B8%C2%B3-success)](https://github.com/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/The_Genesis_of_e.ipynb)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18673473.svg)](https://doi.org/10.5281/zenodo.18673473)
+[![Paper](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/The-Genesis-of-e/blob/main/Paper/The_Genesis_of_e.pdf)
+[![Open Validation Suite](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/The_Genesis_of_e.ipynb)
 This repository hosts the official open-source computational laboratory, arbitrary-precision evaluation engines, and mechanized formal verification suites for the mathematical physics paper **"The Genesis of e from Modular Substrate Theory: Exact Identities, Eratosthenes Optimality, and the Riemann Zeta Function"**.
 
 We present three exact, parameter-free analytical identities linking the continuous growth constant ($e$), the Shannon information bit ($\ln 2$), the Riemann zeta function at the origin ($\zeta(0) = -1/2$), and the vacuum informational impedance ($`R_{\text{fund}} = \ln 2 / (6\ln 3)`$) derived under the Modular Substrate Theory (MST) framework. Furthermore, we provide empirical and analytical evidence of a highly significant phase quantization aligned with the 12-point dihedral symmetry group ($D_6$) of the $\mathbb{Z}/6\mathbb{Z}$ substrate across the non-trivial zeros of the Riemann zeta function, verified across variable adiabatic shifts.

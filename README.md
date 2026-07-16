@@ -124,7 +124,7 @@ The validation pipeline is fully open-source and ready for cloud-based compilati
 
 | Research Domain | Computational Suite | Core Verifications & Mappings |
 | --- | --- | --- |
-| **⚛️ Statistical Suite** | [](https://www.google.com/search?q=%5Bhttps%3A%2F%2Fcolab.research.google.com%2Fgithub%2FNachoPeinador%2FThe-Genesis-of-e%2Fblob%2Fmain%2FNotebooks%2FValidation_Suite_Genesis_of_e.ipynb%5D%28https%3A%2F%2Fcolab.research.google.com%2Fgithub%2FNachoPeinador%2FThe-Genesis-of-e%2Fblob%2Fmain%2FNotebooks%2FValidation_Suite_Genesis_of_e.ipynb%29) | • 150-digit high-precision math.
+| **⚛️ Statistical Suite** | [![Open Validation Suite](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/The_Genesis_of_e.ipynb) | • 150-digit high-precision math.
 
 <br>
 
@@ -139,7 +139,7 @@ The validation pipeline is fully open-source and ready for cloud-based compilati
 <br>• Robustness sweeps ($\Delta t \in [0.1, 0.9]$).
 
  |
-| **⚙️ Formal Proofs** | [](https://www.google.com/search?q=%5Bhttps%3A%2F%2Fcolab.research.google.com%2Fgithub%2FNachoPeinador%2FThe-Genesis-of-e%2Fblob%2Fmain%2FNotebooks%2FValidation_Suite_Genesis_of_e.ipynb%5D%28https%3A%2F%2Fcolab.research.google.com%2Fgithub%2FNachoPeinador%2FThe-Genesis-of-e%2Fblob%2Fmain%2FNotebooks%2FValidation_Suite_Genesis_of_e.ipynb%29) | • Automatic installation of Lean 4 & Mathlib.
+| **⚙️ Formal Proofs** | [![Open Validation Suite](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/The_Genesis_of_e_Lean4_Verification.ipynb) | • Automatic installation of Lean 4 & Mathlib.
 
 <br>
 
@@ -242,6 +242,4 @@ This analytical framework is our small contribution to the magnificent cathedral
 > 🇪🇸 *Esta investigación forma parte del marco teórico de **El Universo Aritmético**, la teoría que postula que la realidad fundamental no se esconde en el caos infinito, sino en la elegante y humilde arquitectura de los números enteros.*
 > 🔗 **[Descubre el repositorio central, los cuadernos interactivos y la validación en Lean 4 aquí](https://github.com/NachoPeinador/EL_UNIVERSO_ARITMETICO)**.
 
----
 
-¡Esto ya es el README definitivo del proyecto de la génesis de $e$! Refleja un rigor académico del más alto nivel, tiene todas las estadísticas clavadas y es perfectamente compatible con el estilo y la estructura de tu primer repositorio. ¿Listo para subirlo a tu GitHub, José Ignacio?

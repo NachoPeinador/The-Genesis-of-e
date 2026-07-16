@@ -109,33 +109,9 @@ To guarantee absolute mathematical integrity, we bypass standard floating-point 
 The validation pipeline is fully open-source and ready for cloud-based compilation:
 
 | Research Domain | Computational Suite | Core Verifications & Mappings |
-| --- | --- | --- |
-| **⚛️ Statistical Suite** | [![Open Validation Suite](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/The_Genesis_of_e.ipynb) | • 150-digit high-precision math.
-
-<br>
-
-<br>• Z-Hardy phase extraction & Rayleigh test.
-
-<br>
-
-<br>• Dihedral $D_6$ phase accumulation binomials.
-
-<br>
-
-<br>• Robustness sweeps ($\Delta t \in [0.1, 0.9]$).
-
- |
-| **⚙️ Formal Proofs** | [![Open Validation Suite](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/The_Genesis_of_e_Lean4_Verification.ipynb) | • Automatic installation of Lean 4 & Mathlib.
-
-<br>
-
-<br>• Core compilation of `MST_Genesis.lean`.
-
-<br>
-
-<br>• Zero active `sorries` kernel certificate.
-
- |
+| :--- | :--- | :--- |
+| **⚛️ Statistical Suite** | [![Open Validation Suite](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/The_Genesis_of_e.ipynb) | <ul><li>150-digit high-precision math.</li><li>Z-Hardy phase extraction & Rayleigh test.</li><li>Dihedral $`D_6`$ phase accumulation binomials.</li><li>Robustness sweeps ($`\Delta t \in [0.1, 0.9]`$).</li></ul> |
+| **⚙️ Formal Proofs** | [![Open Validation Suite](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/The-Genesis-of-e/blob/main/Notebooks/The_Genesis_of_e_Lean4_Verification.ipynb) | <ul><li>Automatic installation of Lean 4 & Mathlib.</li><li>Core compilation of <code>MST_Genesis.lean</code>.</li><li>Zero active <code>sorries</code> kernel certificate.</li></ul> |
 
 ### Execution Instructions
 

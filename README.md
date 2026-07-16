@@ -204,7 +204,7 @@ This analytical framework is our small contribution to the magnificent cathedral
 
 ---
 
-**Last Update:** July 2026 | **Status:** Submitted to *Journal of Noncommutative Geometry (JNCG)* | Built with ⚙️, \LaTeX, & 🐍
+**Last Update:** July 16, 2026 | **Status:** Submitted to *Letters in Mathematical Physics* (Ref: `MATH-D-26-00522`) | Built with ⚙️ Lean 4, \LaTeX, & 🐍
 
 ---
 
